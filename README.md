@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning models, Python coding, Business Analysis and Agile
 - 🌱 I’m currently learning Machine Learning and Big Data
 - 💞️ I’m looking to collaborate on Machine Learning and Big Data
-- 📫 How to reach me - animeshparikshya@yahoo.in
+- 📫 How to reach me - animeshparikshya@yahoo.in, https://www.linkedin.com/in/animeshparikshya/ and https://www.kaggle.com/animeshparikshya
 
 <!---
 animeshparikshya/animeshparikshya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
