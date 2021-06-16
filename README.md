@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @animeshparikshya
-- 👀 I’m interested in Machine Learning models, Python coding, Business Analysis and Agile
+- 👀 I’m interested in Machine Learning models, Python coding, R Coding, Business Analysis, SQL and Agile
 - 🌱 I’m currently learning Machine Learning and Big Data
 - 💞️ I’m looking to collaborate on Machine Learning and Big Data
 - 📫 How to reach me - animeshparikshya@yahoo.in, https://www.linkedin.com/in/animeshparikshya/ and https://www.kaggle.com/animeshparikshya
